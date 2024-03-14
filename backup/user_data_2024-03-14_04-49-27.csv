@@ -1,0 +1,4 @@
+User ID,Name,Email,Mobile Number,Expense ID,Amount,Type
+79ACD,user1,user1@gmail.com,1234567890,100.00,EQUAL
+79ACD,user1,user1@gmail.com,1234567890,50.00,EXACT
+79ACD,user1,user1@gmail.com,1234567890,50.00,EXACT
